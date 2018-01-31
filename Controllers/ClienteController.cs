@@ -17,14 +17,14 @@ namespace LojaWebEF.Controllers {
         }
 
         [HttpGet]
-        public JsonResult Listar () {
-            var cliente = contexto.Cliente.ToList();
-            return Json(cliente) ;
-        }
-
-        // public IEnumerable<Cliente> Listar(){
-        //     return contexto.Cliente.ToList();            
+        // public JsonResult Listar () {
+        //     var cliente = contexto.Cliente.ToList();
+        //     return Json(cliente) ;
         // }
+
+        public IEnumerable<Cliente> Listar(){
+            return contexto.Cliente.ToList();            
+        }
 
         [HttpGet ("{id}")]
         public Cliente Listar (int id) {
