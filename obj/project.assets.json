@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic.INFO\\Desktop\\LojaWebEF\\LojaWebEF.csproj",
+      "projectUniqueName": "c:\\Users\\fic.INFO\\Desktop\\LojaWebEF\\LojaWebEF.csproj",
       "projectName": "LojaWebEF",
-      "projectPath": "C:\\Users\\fic.INFO\\Desktop\\LojaWebEF\\LojaWebEF.csproj",
+      "projectPath": "c:\\Users\\fic.INFO\\Desktop\\LojaWebEF\\LojaWebEF.csproj",
       "packagesPath": "C:\\Users\\fic.INFO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic.INFO\\Desktop\\LojaWebEF\\obj\\",
+      "outputPath": "c:\\Users\\fic.INFO\\Desktop\\LojaWebEF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
