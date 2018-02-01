@@ -26,6 +26,7 @@ namespace LojaWebEF.Controllers {
             return contexto.Cliente.Where (x => x.IdCliente == id).FirstOrDefault ();
         }
 
+        //Testando Join
         [HttpGet]
         public JsonResult ListarJoin(){
             var consulta = from c in contexto.Cliente.Join(contexto.Pedido,
