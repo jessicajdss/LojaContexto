@@ -12533,23 +12533,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fic.INFO\\.nuget\\packages\\": {},
+    "C:\\Users\\FIC.INFO\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\fic.INFO\\Desktop\\LojaWebEF\\LojaWebEF.csproj",
+      "projectUniqueName": "C:\\Users\\FIC.INFO\\Desktop\\LojaContexto\\LojaWebEF.csproj",
       "projectName": "LojaWebEF",
-      "projectPath": "c:\\Users\\fic.INFO\\Desktop\\LojaWebEF\\LojaWebEF.csproj",
-      "packagesPath": "C:\\Users\\fic.INFO\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\fic.INFO\\Desktop\\LojaWebEF\\obj\\",
+      "projectPath": "C:\\Users\\FIC.INFO\\Desktop\\LojaContexto\\LojaWebEF.csproj",
+      "packagesPath": "C:\\Users\\FIC.INFO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FIC.INFO\\Desktop\\LojaContexto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\fic.INFO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\FIC.INFO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

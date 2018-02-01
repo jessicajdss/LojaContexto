@@ -16,19 +16,23 @@ namespace LojaWebEF.Controllers {
             this.contexto = contexto;
         }
 
-        [HttpGet]
-        // public JsonResult Listar () {
-        //     var cliente = contexto.Cliente.ToList();
-        //     return Json(cliente) ;
+        // [HttpGet]
+        // public IEnumerable<Cliente> Listar(){
+        //     return contexto.Cliente.ToList();            
         // }
-
-        public IEnumerable<Cliente> Listar(){
-            return contexto.Cliente.ToList();            
-        }
 
         [HttpGet ("{id}")]
         public Cliente Listar (int id) {
             return contexto.Cliente.Where (x => x.IdCliente == id).FirstOrDefault ();
+        }
+
+        [HttpGet]
+        public JsonResult ListarJoin(){
+            var consulta = from c in contexto.Cliente.Join(contexto.Pedido,
+            c=>c.IdCliente,
+            p=>p.IdCliente
+            ,(c,p)=>new{Cliente = c.Nome,Pedido= p.IdPedido}) select c;
+            return (Json(consulta.ToList()));
         }
 
         [HttpPost]

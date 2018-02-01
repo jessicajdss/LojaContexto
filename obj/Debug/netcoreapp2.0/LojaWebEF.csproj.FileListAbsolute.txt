@@ -8,3 +8,13 @@ C:\Users\fic.INFO\Desktop\LojaWebEF\obj\Debug\netcoreapp2.0\LojaWebEF.AssemblyIn
 C:\Users\fic.INFO\Desktop\LojaWebEF\obj\Debug\netcoreapp2.0\LojaWebEF.AssemblyInfo.cs
 C:\Users\fic.INFO\Desktop\LojaWebEF\obj\Debug\netcoreapp2.0\LojaWebEF.dll
 C:\Users\fic.INFO\Desktop\LojaWebEF\obj\Debug\netcoreapp2.0\LojaWebEF.pdb
+C:\Users\FIC.INFO\Desktop\LojaContexto\bin\Debug\netcoreapp2.0\LojaWebEF.deps.json
+C:\Users\FIC.INFO\Desktop\LojaContexto\bin\Debug\netcoreapp2.0\LojaWebEF.runtimeconfig.json
+C:\Users\FIC.INFO\Desktop\LojaContexto\bin\Debug\netcoreapp2.0\LojaWebEF.runtimeconfig.dev.json
+C:\Users\FIC.INFO\Desktop\LojaContexto\bin\Debug\netcoreapp2.0\LojaWebEF.dll
+C:\Users\FIC.INFO\Desktop\LojaContexto\bin\Debug\netcoreapp2.0\LojaWebEF.pdb
+C:\Users\FIC.INFO\Desktop\LojaContexto\obj\Debug\netcoreapp2.0\LojaWebEF.csproj.CoreCompileInputs.cache
+C:\Users\FIC.INFO\Desktop\LojaContexto\obj\Debug\netcoreapp2.0\LojaWebEF.AssemblyInfoInputs.cache
+C:\Users\FIC.INFO\Desktop\LojaContexto\obj\Debug\netcoreapp2.0\LojaWebEF.AssemblyInfo.cs
+C:\Users\FIC.INFO\Desktop\LojaContexto\obj\Debug\netcoreapp2.0\LojaWebEF.dll
+C:\Users\FIC.INFO\Desktop\LojaContexto\obj\Debug\netcoreapp2.0\LojaWebEF.pdb
